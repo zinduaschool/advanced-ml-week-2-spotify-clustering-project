@@ -56,4 +56,4 @@ Evaluating clustering models is challenging as there are no ground truth labels.
 
 - Visualization: Using t-SNE and PCA to visualize the clusters in 2D space.
 
-***Remember to document your process, explain your decisions, and present your results effectively. Good luck with your project!**
+***Remember to document your process, explain your decisions, and present your results effectively. Good luck with your project!***
