@@ -1,4 +1,4 @@
-## Option 1: Music Clustering Project
+## Spotify Music Clustering Project
 
 ### Project Description
 
